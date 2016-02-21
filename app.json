@@ -1,0 +1,23 @@
+{
+   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "description" : "Use this template to request login and registration information before the app can be started. It shows an option to login/register and displays a login form view and register form view. For example, create a Facebook* app or Twitter* app.",
+   "sortWeight" : "0.2",
+   "highlights" : [
+      ""
+   ],
+   "mobile" : false,
+   "relationship" : "login view",
+   "relName" : null,
+   "appPreview" : false,
+   "title" : "Login View App",
+   "appName" : null,
+   "keywords" : [
+      ""
+   ],
+   "section" : "templates",
+   "group" : "other",
+   "visible" : true,
+   "repoName" : "template-login-view",
+   "tooltip" : "Use this template to request login and registration information before the app can be started. It shows an option to login/register and displays a login form view and register form view. For example, create a Facebook* app or Twitter* app."
+}
